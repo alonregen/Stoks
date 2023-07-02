@@ -12,3 +12,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+*.lock
+*.bin
+*.properties
+*.probe
