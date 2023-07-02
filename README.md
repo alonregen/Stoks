@@ -24,7 +24,7 @@
 
 ## Setup and Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/stoks-app.git`
+1. Clone the repository: `git clone https://github.com/alonregen/Stoks`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
